@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Trang chủ Bắc Ninh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>GIỚI THIỆU TỈNH BẮC NINH</h1>
+    <p>Quê hương dân ca Quan họ</p>
+</header>
+
+<nav>
+    <a href="index.html">Trang chủ</a>
+    <a href="vanhoa.html">Văn hóa</a>
+    <a href="diadiem.html">Địa điểm</a>
+    <a href="kinhte.html">Kinh tế</a>
+</nav>
+
+<section>
+    <h2>Giới thiệu chung</h2>
+    <p>
+        Bắc Ninh là vùng đất giàu truyền thống lịch sử, văn hóa và giáo dục,
+        nằm gần Hà Nội và phát triển mạnh về công nghiệp.
+    </p>
+
+    <img src="https://cdn-media.sforum.vn/storage/app/media/thanhhuyen/%E1%BA%A3nh%20%C4%91%E1%BA%B9p%20b%E1%BA%AFc%20ninh/anh-dep-bac-ninh-1.jpg">
+</section>
+
+<footer>
+    <p>Design by gr3</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kinh tế Bắc Ninh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Kinh tế Bắc Ninh</h1>
+</header>
+
+<nav>
+    <a href="index.html">Trang chủ</a>
+    <a href="vanhoa.html">Văn hóa</a>
+    <a href="diadiem.html">Địa điểm</a>
+    <a href="kinhte.html">Kinh tế</a>
+</nav>
+
+<section>
+
+    <h2>Phát triển kinh tế</h2>
+
+    <p>
+        Bắc Ninh là một trong những tỉnh công nghiệp phát triển nhanh nhất cả nước,
+        có nhiều khu công nghiệp lớn, thu hút nhiều doanh nghiệp trong và ngoài nước.
+    </p>
+
+    <ul>
+        <li>Khu công nghiệp Yên Phong</li>
+        <li>Khu công nghiệp VSIP</li>
+        <li>Công nghiệp điện tử, sản xuất linh kiện</li>
+        <li>Thương mại và dịch vụ phát triển</li>
+    </ul>
+
+</section>
+
+<footer>
+    <p>Design by gr3</p>
+</footer>
+
+</body>
+</html>
+body{
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+header{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav{
+    background-color: black;
+    padding: 8px;
+}
+
+nav a{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+section{
+    background-color: white;
+    margin: 15px;
+    padding: 15px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Văn hóa Bắc Ninh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Văn hóa Bắc Ninh</h1>
+</header>
+
+<nav>
+    <a href="index.html">Trang chủ</a>
+    <a href="vanhoa.html">Văn hóa</a>
+    <a href="diadiem.html">Địa điểm</a>
+    <a href="kinhte.html">Kinh tế</a>
+</nav>
+
+<section>
+    <h2>Nét văn hóa đặc sắc</h2>
+
+    <ul>
+        <li>Dân ca Quan họ – Di sản văn hóa phi vật thể</li>
+        <li>Lễ hội Lim nổi tiếng đầu xuân</li>
+        <li>Nhiều làng nghề truyền thống: gốm, tranh, mộc</li>
+        <li>Truyền thống hiếu học, khoa bảng</li>
+    </ul>
+
+    <p>
+        Bắc Ninh được xem là cái nôi văn hóa của vùng Kinh Bắc xưa,
+        nơi lưu giữ nhiều giá trị lịch sử và nghệ thuật dân gian đặc sắc.
+    </p>
+</section>
+
+<footer>
+    <p>Design by gr3</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Địa điểm du lịch Bắc Ninh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Địa điểm du lịch Bắc Ninh</h1>
+</header>
+
+<nav>
+    <a href="index.html">Trang chủ</a>
+    <a href="vanhoa.html">Văn hóa</a>
+    <a href="diadiem.html">Địa điểm</a>
+    <a href="kinhte.html">Kinh tế</a>
+</nav>
+
+<section>
+
+    <h2>Các địa điểm nổi tiếng</h2>
+
+    <table>
+        <tr>
+            <th>Địa điểm</th>
+            <th>Đặc điểm</th>
+        </tr>
+        <tr>
+            <td>Chùa Dâu</td>
+            <td>Ngôi chùa cổ nhất Việt Nam</td>
+        </tr>
+        <tr>
+            <td>Chùa Bút Tháp</td>
+            <td>Tượng Quan Âm nghìn tay nổi tiếng</td>
+        </tr>
+        <tr>
+            <td>Làng tranh Đông Hồ</td>
+            <td>Nghề làm tranh dân gian truyền thống</td>
+        </tr>
+    </table>
+
+</section>
+
+<footer>
+    <p>Design by gr3</p>
+</footer>
+
+</body>
+</html>
